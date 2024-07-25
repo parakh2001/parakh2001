@@ -58,8 +58,8 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 Here are some of my notable projects:
 
-- **[Project 1](https://github.com/parakh2001/Expense-Tracker.git)**: This is an expense tracker built using Reactjs and TailwindCSS.
-- **[Project 2](https://github.com/parakh2001/Reactjs-todolist.git)**: This is simple implementation of Todolist
+- **[Project 1]([https://github.com/parakh2001/Expense-Tracker.git](https://myexpensetracker-reactjs.netlify.app/))**: This is an expense tracker built using Reactjs and TailwindCSS.
+- **[Project 2]([https://github.com/parakh2001/Reactjs-todolist.git](https://nimble-dodol-158a55.netlify.app/))**: This is simple implementation of Todolist
 
 Feel free to check out my repositories and leave a star if you find something interesting!
 
