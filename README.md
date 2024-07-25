@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Parakh Gupta]!
+# 👋 Hi there, I'm Parakh Gupta
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/parakh2001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/parakh-guptapg25)
