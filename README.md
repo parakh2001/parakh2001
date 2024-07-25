@@ -8,19 +8,19 @@
 
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies. Here's a bit about me:
 
-- 🌱 I’m currently learning **[Nextjs,Golang,Docker,Kubernetes]**
-- 💼 I’m currently working at **[Freelancer]**
-- 💬 Ask me about **[Javascript,Typescript,C++,Dart,Nextjs,Reactjs,Flutter]**
-- 📫 How to reach me: **[parakh.gupta2571@gmail.com]**
-- 😄 Pronouns: **[He/Him]**
-- ⚡ Fun fact: **[I love cats and coffee]**
+- 🌱 I’m currently learning **Nextjs,Golang,Docker,Kubernetes**
+- 💼 I’m currently working at **Freelancer**
+- 💬 Ask me about **Javascript,Typescript,C++,Dart,Nextjs,Reactjs,Flutter**
+- 📫 How to reach me: **parakh.gupta2571@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love cats and coffee**
 
 ## 🛠️ Skills
 
-- **Programming Languages:** [C++,Javascript,Typescript,Dart,Golang]
-- **Frameworks/Libraries:** [Nextjs,Reactjs,Flutter]
-- **Databases:** [MSSQL,MongoDB,MYSQL,Firebase]
-- **Tools & Platforms:** [Jira,Github,Git,Obsidian,Notion]
+- **Programming Languages:** C++,Javascript,Typescript,Dart,Golang
+- **Frameworks/Libraries:** Nextjs,Reactjs,Flutter
+- **Databases:** MSSQL,MongoDB,MYSQL,Firebase
+- **Tools & Platforms:** Jira,Github,Git,Obsidian,Notion
 
 ## 💻 Tech Stack
 
