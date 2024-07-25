@@ -8,7 +8,7 @@
 
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies. Here's a bit about me:
 
-- 🌱 I’m currently learning **Nextjs,Golang,Docker,Kubernetes**
+- 🌱 I’m currently learning **Nextjs,Golang,Typescript**
 - 💼 I’m currently working at **Freelancer**
 - 💬 Ask me about **Javascript,Typescript,C++,Dart,Nextjs,Reactjs,Flutter**
 - 📫 How to reach me: **parakh.gupta2571@gmail.com**
