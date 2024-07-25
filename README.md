@@ -10,7 +10,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 - 🌱 I’m currently learning **Nextjs,Golang,Typescript**
 - 💼 I’m currently working at **Freelancer**
-- 💬 Ask me about **Javascript,Typescript,C++,Dart,Nextjs,Reactjs,Flutter**
+- 💬 Ask me about **Javascript,python,C++,Dart,Nextjs,Reactjs,Flutter**
 - 📫 How to reach me: **parakh.gupta2571@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love cats and coffee**
