@@ -52,7 +52,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/parakh-guptapg25)
 - Twitter: [Your Twitter](https://twitter.com/Parakh_25)
-- Personal Website: [Your Website](https://your-website.com)
+- Personal Website: [Portfolio](https://portfolio-opal-three-18.vercel.app/)
 
 ## 📚 Projects
 
