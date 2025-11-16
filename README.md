@@ -11,7 +11,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - 🌱 I’m currently learning **Golang,Typescript,Kubernetes**
 - 💼 I’m currently working at **Freelancer**
 - 💬 Ask me about **Javascript,python,C++,Dart,Nextjs,Reactjs,Flutter**
-- 📫 How to reach me: **parakh.gupta2571@gmail.com**
+- 📫 How to reach me: **parakhgupta.work@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love cats and coffee**
 
